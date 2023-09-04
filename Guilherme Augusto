@@ -1,0 +1,5 @@
+git init
+echo "criando commit" >meu arquivo.txt
+git add
+git commit -m "commit inicial"
+git verify
